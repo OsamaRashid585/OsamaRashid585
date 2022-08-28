@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Rashid</h1>
-<h3 align="center">A passionate Game developer from Pakistan</h3>
+<h3 align="center">Full-Time Game Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamarashid585&label=Profile%20views&color=0e75b6&style=flat" alt="osamarashid585" /> </p>
 
