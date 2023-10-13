@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Osama Rashid</h1>
-<h3 align="center">Full-Time Game Programmer</h3>
+<h3 align="center">Full-Time Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamarashid585&label=Profile%20views&color=0e75b6&style=flat" alt="osamarashid585" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamarashid585" alt="osamarashid585" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [itch.io soon](itch.io soon)
+- 👨‍💻 All of my projects are available at [[itch.io soon](https://osama-rashid.itch.io/)]
 
 - 💬 Ask me about **Unity Game Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/osama-rashid-859694227**
 
-- 📄 Know about my experiences [resume soon](resume soon)
-
-- ⚡ Fun fact **I Can do beatbox**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
