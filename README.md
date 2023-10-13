@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamarashid585" alt="osamarashid585" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[itch.io soon](https://osama-rashid.itch.io/)]
+- 👨‍💻 All of my projects are available at [[itch.io](https://osama-rashid.itch.io/)]
 
 - 💬 Ask me about **Unity Game Development**
 
